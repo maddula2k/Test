@@ -11,3 +11,4 @@ assignees: ''
 ## Check how branching works
 - [ ] Submit
 - [ ] Pending
+- [ ] Completed
